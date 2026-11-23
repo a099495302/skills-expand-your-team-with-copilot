@@ -1,3 +1,3 @@
 ### Copilot Instructions
 
-Replace this text to customize Copilot.
+Backend is FastAPI in src/app.py, frontend is static files in src/static. Keep changes small and focused.
